@@ -14,5 +14,5 @@ This is a dataset gathered from real-world traffic logs of the recommender syste
 
 5)Feature _c: Additional feature column(s) that capture relevant attributes or contextual information associated with the exposure.
 
-2.Data Availability Statement: Due to GitHub's file size restrictions (max 25MB per file), we provide an example dataset for initial review. The full dataset is being prepared and will be released through alternative cloud storage links.
+2.Data Availability Statement: Due to GitHub's file size restrictions (max 25MB per file), we provide an example dataset for initial review. The full dataset is undergoing security approval and will be released through alternative links once the process is complete.
 
